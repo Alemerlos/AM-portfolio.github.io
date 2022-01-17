@@ -1,0 +1,151 @@
+@media only screen and (max-width: 720px) {
+    .fotoapp{
+        height: 100%;
+        bottom: -50%;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: relative;
+    }
+}
+
+header{
+    background: #F1F1F2;
+    height: 96px;
+    }
+
+    .logo{
+        top: -50px;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: relative;
+
+        z-index: 1;
+        opacity: 100%;
+    }
+
+footer{
+    background: #F1F1F2;
+    height: 96px;
+    }
+
+.nav{
+   /* menu-outline 1 */
+    position: absolute;
+    left: 3.54%;
+    right: 92.93%;
+    top: 1.8%;
+    bottom: 96.4%; 
+    font-family: 'Nunito', sans-serif;
+    color: #212741;
+}
+
+h1{
+    font-family: 'Nunito', sans-serif;
+    color: #3E2DB0;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 60px;
+}
+
+h2{
+    font-family: 'Nunito', sans-serif;
+    color: #3E2DB0;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+}
+
+#subtitulo{
+    padding-top: 32px;
+}
+
+p{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal; 
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #212741;
+}
+
+.cuerpo14{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal; 
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 26px;
+    color: #212741;
+    text-align: center;
+    letter-spacing: -2%;
+}
+
+h5{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 28px;
+    color: #212741;
+}
+
+h6{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal; 
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #212741;
+}
+
+#descarga{
+    padding: 24px 0 16px;
+}
+
+#secciondos{
+    background-color: #EAEAEA;
+    padding: 16px 0px 40px;
+
+    ;
+}
+
+.fotoapp{
+    height: 90%;
+}
+
+.fotohacemos{
+    width: 100%;
+    height: auto;
+}
+
+.pasos{
+    width: 50%;
+}
+
+#ios{padding: 8px 24px;}
+
+.boton{
+    background: #000000;
+    border-radius: 50px;
+    padding: 16px 24px;
+}
+
+.trama{
+    background: url('img/trama-01.svg');
+    background-repeat: repeat;
+    background-color: #F1F1F2;
+    opacity: 0.5;
+}
+
+.redes{
+    display: flex;
+    background: #3E2DB0;
+    border-radius: 100px;
+    padding: 8px;
+    height: 40px;
+}
+
+#hacemos2{
+    padding-top: 16px;
+}
